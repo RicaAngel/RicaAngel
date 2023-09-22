@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @RicaAngel
-- 👀 I’m interested in Photography and Programming 
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @RicaAngel
+👀 I’m interested in Programming
+🌱 I’m currently learning Javascript 
+💞️ My technical skills are
+-c++
+-java
+-c#
+-python
+-mysql
+
 
 <!---
 RicaAngel/RicaAngel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
