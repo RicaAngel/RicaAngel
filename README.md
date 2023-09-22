@@ -1,12 +1,12 @@
-👋 Hi, I’m @RicaAngel
-👀 I’m interested in Programming
-🌱 I’m currently learning Javascript 
-💞️ My technical skills are
--c++
--java
--c#
--python
--mysql
+- 👋 Hi, I’m @RicaAngel
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Javascript 
+- 💞️ My technical skills are:
+•	c++
+•	java
+•	c#
+•	python
+•	MySQL
 
 
 <!---
